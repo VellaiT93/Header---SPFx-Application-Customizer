@@ -1,10 +1,12 @@
-# header
+# Header App Customizer
 
 ## Summary
 
 Short summary on functionality and used technologies.
 
-[picture of the solution in action, if possible]
+![image](https://user-images.githubusercontent.com/64096389/158051530-d6d1745b-0059-4ef0-b01f-47a24e983979.png)
+
+![image](https://user-images.githubusercontent.com/64096389/158051536-99b988b2-f1ba-46d5-98d5-4ea0f0a1871e.png)
 
 ## Used SharePoint Framework Version
 
