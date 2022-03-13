@@ -4,7 +4,8 @@
 
 Short summary on functionality and used technologies.
 
-![image](https://user-images.githubusercontent.com/64096389/158051530-d6d1745b-0059-4ef0-b01f-47a24e983979.png)
+![image](https://user-images.githubusercontent.com/64096389/158051560-5c1c3367-5e74-4024-9ddd-0b4f125bc734.png)
+
 
 ![image](https://user-images.githubusercontent.com/64096389/158051536-99b988b2-f1ba-46d5-98d5-4ea0f0a1871e.png)
 
