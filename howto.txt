@@ -1,0 +1,20 @@
+Requires NODEJS 8.17.0
+node packages:
+
+1.) npm install --global yo@3.1.1
+2.) npm install --global gulp
+3.) npm install --global @microsoft/generator-sharepoint (has to be version 1.11 --> SP 19 onprem only supports)
+
+Create project: yo @microsoft/sharepoint
+
+Deploy: 
+
+1.) gulp clean
+2.) gulp bundle --ship
+3.) gulp build --ship
+4.) gulp package-solution --ship
+
+gulp trust-dev-cert
+
+gulp serve for testing
+
