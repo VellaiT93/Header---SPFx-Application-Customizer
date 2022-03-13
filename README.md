@@ -12,6 +12,8 @@ Top Placeholder consisting of 3 parts:
 
 ![image](https://user-images.githubusercontent.com/64096389/158051765-1b4cdba8-e3be-4759-ad82-93a8812119c7.png)
 
+![image](https://user-images.githubusercontent.com/64096389/158052633-089e8529-09b0-4829-bc39-7b4d7f962994.png)
+
 ## Used SharePoint Framework Version
 
 ![version](https://img.shields.io/badge/version-1.11-green.svg)
