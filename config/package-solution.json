@@ -3,7 +3,7 @@
   "solution": {
     "name": "header-client-side-solution",
     "id": "84fbabcb-6ea3-4fc6-8e7c-a1170e44a3f3",
-    "version": "1.0.0.4",
+    "version": "1.0.1.0",
     "includeClientSideAssets": true,
     "features": [
       {
