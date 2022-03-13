@@ -2,7 +2,11 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Top Placeholder consisting of 3 parts:
+  - Dropdown menu
+  - Floating text from right to left
+    - Content extracted from a SharePoint list (new added items will be appended as well)
+  - Icons menu (changing color on hover) 
 
 ![image](https://user-images.githubusercontent.com/64096389/158051674-f28f2c25-2cec-4607-838c-063536518d3d.png)
 
