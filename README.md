@@ -4,7 +4,9 @@
 
 Short summary on functionality and used technologies.
 
+![image](https://user-images.githubusercontent.com/64096389/158051674-f28f2c25-2cec-4607-838c-063536518d3d.png)
 
+![image](https://user-images.githubusercontent.com/64096389/158051664-fdffd8ec-4ea2-4ab9-b0de-75ad36333eaf.png)
 
 ## Used SharePoint Framework Version
 
