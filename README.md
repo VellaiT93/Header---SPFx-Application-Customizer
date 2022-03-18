@@ -26,16 +26,6 @@ Top Placeholder consisting of 3 parts:
 
 > Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
 
-## Prerequisites
-
-> Any special pre-requisites?
-
-## Solution
-
-Solution|Author(s)
---------|---------
-folder name | Author details (name, company, twitter alias with link)
-
 ## Version history
 
 Version|Date|Comments
