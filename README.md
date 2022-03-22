@@ -46,6 +46,7 @@ Version|Date|Comments
 - in the command-line run:
   - **npm install**
   - **gulp serve**
+  - Do not forget to update the queryString variable with your SharePoint site or use: "this.context.pageContext.web.absoluteUrl"
 
 > Include any additional steps as needed.
 
